@@ -1,0 +1,14 @@
+{
+  "name": "mentorship-assignment",
+  "version": "1.0.0",
+  "description": "Assign mentees to mentors from an excel file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Harris",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.8.4"
+  }
+}
